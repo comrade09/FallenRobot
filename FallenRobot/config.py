@@ -24,7 +24,6 @@ class Config(object):
 
     OWNER_ID = "1442684727"  # User id of your telegram account (Must be integer)
      
-   OWNER_USERNAME = "Ath2023"
 
   # Optional fields
     BL_CHATS = []  # List of groups that you want blacklisted.
